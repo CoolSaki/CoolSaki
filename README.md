@@ -1,4 +1,4 @@
-# Hello there, I'm [CoolDev](https://coolsaki.github.io) <img width="30px" height="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hello there, I'm [Cool-Dev](https://coolsaki.github.io)👋
 
 <img align="right" src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="500"/>
 
