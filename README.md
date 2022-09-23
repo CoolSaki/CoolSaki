@@ -2,11 +2,9 @@
 
 <img align="right" src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="500"/>
 
-### Hi there 👋
-
 I'm a Full Stack and Blockchain Developer graduated in Computer Science and I'm working on some side projects, learning a couple new skills, and trying to regain the habit of reading fiction books.
 
-### Social
+### Connect with Me
 
 <p align="left">
 <a href="mailto:coolsaki.ws@gmail.com" target="_blank" rel="noreferrer"><img src="https://chirag.codes/static/email.svg" width="32" height="32" /></a>
