@@ -8,9 +8,9 @@ I'm a Full Stack and Blockchain Developer graduated in Computer Science and I'm 
 
 <p align="left">
 <a href="mailto:coolsaki.ws@gmail.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="32" height="32" /></a>
-<a href="https://discord.com/users/CoolSaki" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" width="32" height="32" /></a>
-<a href="https://telegram.me/CoolSaki125" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32" height="32" /></a>
-<a href="skype:LOGIN?chat/live:.cid.526043c60c7599cc" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/skype/skype-tile.svg" width="32" height="32" /></a>
+<a href="https://discord.gg/CoolSaki" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" width="32" height="32" /></a>
+<a href="https://t.me/CoolSaki125" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32" height="32" /></a>
+<a href="skype:live:.cid.526043c60c7599cc?chat" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/skype/skype-tile.svg" width="32" height="32" /></a>
 
 </p>
 
