@@ -1,10 +1,10 @@
 # Hello there, I'm [Cool-Dev](https://coolsaki.github.io)👋
 
-<img align="right" src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="500"/>
+<!-- <img align="right" src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" width="500"/> -->
 
 I'm a Full Stack and Blockchain Developer graduated in Computer Science and I'm working on some side projects, learning a couple new skills, and trying to regain the habit of reading fiction books.
 
-## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+## Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
 <div>
  <!-- <a href="https://www.linkedin.com/in/cool-saki-7462a21b4" target="_blank">
