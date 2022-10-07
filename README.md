@@ -4,7 +4,7 @@
 
 I'm a Full Stack and Blockchain Developer graduated in Computer Science and I'm working on some side projects, learning a couple new skills, and trying to regain the habit of reading fiction books.
 
-## Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+## Let's Connect
 
 <div>
  <!-- <a href="https://www.linkedin.com/in/cool-saki-7462a21b4" target="_blank">
@@ -49,11 +49,11 @@ I'm a Full Stack and Blockchain Developer graduated in Computer Science and I'm 
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Boostrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
- <h2 align="center"> Github Statistics 📈 </h2>
+ <h2 align="center"> Github Statistics</h2>
  
  <p align="center">
  
-![CoolSaki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoolSaki&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical)<br>
+![CoolSaki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoolSaki&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolSaki&langs_count=6&hide=TeXt,blade&hide_border=true&layout=compact&theme=radical)<br>
 <img src="https://activity-graph.herokuapp.com/graph?username=CoolSaki&theme=react-dark&bg_color=000&hide_border=true" width="100%"/>
 </p>
